@@ -1,0 +1,13 @@
+/*alert("Ontem eu comi pipoca com sal")
+alert("Fiquei todo empanzinado")
+alert("Tô mal, mal, mal, mal")
+alert("Ontem eu comi pipoca com sal")
+alert("Fiquei todo empanzinado")
+alert("Tô mal, mal, mal, mal")
+alert("Ontem eu comi pipoca, um litro de Coca, depois me dei mal")
+alert("Chamaram uma ambulância e me levaram para o hospital")
+alert("Chegou lá no hospital, o doutor mandou eu ficar peladão")
+alert("No braço, me aplicou um soro e na minha bunda aplicou uma injeção")
+alert("Na hora que ele aplicou")
+alert("A minha barriga roncou")
+alert("Dei um peido e caguei a mão do doutor")*/

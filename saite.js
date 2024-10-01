@@ -4,7 +4,7 @@ if(cadrasto==false){
     localStorage.setItem('usuario', usuario)
     let senha=prompt("digite sua senha")
     localStorage.setItem('senha', senha)
-    alert("login")
+    alert("faça seu login")
     let usuario2=prompt("digite seu nome de usuário")
     let senha2=prompt("digite sua senha")
     if(usuario2==localStorage.getItem('usuario')&senha2==localStorage.getItem('senha')){

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mamao{
+animation: animadao 5s linear infinite;
+bottom: 0;
+position: absolute;
+}
+@keyframes animadao{
+    from{
+        right: 0%;
+        bottom: 1000px;
+    }
+    to{
+        right: 100%;
+        bottom: 0;
+    }
+}

@@ -1,9 +1,9 @@
 /*const pedrosa=['cavalo','bosta','cuca']
 let jogs=pedrosa.indexOf('bosta')
 console.log(jogs)*/
-/*const fodasegtt=['cavalo','bosta','cuca']
+const fodasegtt=['cavalo','bosta','cuca']
 fodasegtt.sort()
-console.log(fodasegtt)*/
+console.log(fodasegtt)
 /*const penis=[' cavalo',' bosta',' cuca']
 let  join = penis.join(", ")
 console.log(join)*/
@@ -12,9 +12,9 @@ const quadadro=["hamburgui",'chup','banana']
 let  coisa =pedrosa.concat(quadadro)
 let join= coisa.join(", ")
 console.log(join)*/
-const object={
+/*const object={
     nome: "bundas",
     idade: "99",
     cidade:"maceió"
 };
-console.log(object.nome)
+console.log(object.nome)*/
